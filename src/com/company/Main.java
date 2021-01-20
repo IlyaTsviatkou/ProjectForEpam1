@@ -22,7 +22,7 @@ public class Main {
         LOG.error(Arrays.toString(ar.getArray()));
         LOG.error(a);
         LOG.error(b);
-        LOG.error(c);
+        //LOG.error(c);
 
 
     }
