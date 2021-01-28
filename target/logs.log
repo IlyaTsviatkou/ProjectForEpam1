@@ -1,0 +1,163 @@
+2021-01-26 23:36:15.515 [main] TRACE log - Changed all even elements to 2
+2021-01-26 23:36:15.522 [main] TRACE log - Changed all odd elements to 1
+2021-01-26 23:36:15.525 [main] TRACE log - Found average element in array
+2021-01-26 23:36:15.528 [main] TRACE log - Found max element in array
+2021-01-26 23:36:15.529 [main] TRACE log - Found min element in array
+2021-01-26 23:36:15.531 [main] TRACE log - Found sum in array
+2021-01-26 23:36:15.541 [main] TRACE log - read string from file: src/main/resources/array.txt
+2021-01-26 23:36:15.543 [main] TRACE log - Counted negative elements in array
+2021-01-26 23:36:15.544 [main] TRACE log - Counted positive elements in array
+2021-01-26 23:36:15.547 [main] TRACE log - array was converted from string2 5 -1 -2 5 1
+2021-01-28 23:13:18.339 [main] TRACE log - Changed all even elements to 2
+2021-01-28 23:13:18.367 [main] TRACE log - Changed all even elements to 2
+2021-01-28 23:13:18.376 [main] TRACE log - Changed all even elements to 2
+2021-01-28 23:13:18.378 [main] TRACE log - Changed all even elements to 2
+2021-01-28 23:13:18.382 [main] TRACE log - Changed all even elements to 2
+2021-01-28 23:13:18.393 [main] TRACE log - Changed all even elements to 2
+2021-01-28 23:13:18.394 [main] TRACE log - Changed all even elements to 2
+2021-01-28 23:13:18.395 [main] TRACE log - Changed all even elements to 2
+2021-01-28 23:13:18.397 [main] TRACE log - Changed all odd elements to 1
+2021-01-28 23:13:18.398 [main] TRACE log - Changed all odd elements to 1
+2021-01-28 23:13:18.399 [main] TRACE log - Changed all odd elements to 1
+2021-01-28 23:13:18.401 [main] TRACE log - Changed all odd elements to 1
+2021-01-28 23:13:18.403 [main] TRACE log - Changed all odd elements to 1
+2021-01-28 23:13:18.404 [main] TRACE log - Changed all odd elements to 1
+2021-01-28 23:13:18.405 [main] TRACE log - Changed all odd elements to 1
+2021-01-28 23:13:18.406 [main] TRACE log - Changed all odd elements to 1
+2021-01-28 23:16:55.054 [main] TRACE log - Counted negative elements in array
+2021-01-28 23:16:55.066 [main] TRACE log - Counted negative elements in array
+2021-01-28 23:16:55.067 [main] TRACE log - Counted negative elements in array
+2021-01-28 23:16:55.069 [main] TRACE log - Counted negative elements in array
+2021-01-28 23:16:55.072 [main] TRACE log - Counted positive elements in array
+2021-01-28 23:16:55.073 [main] TRACE log - Counted positive elements in array
+2021-01-28 23:16:55.075 [main] TRACE log - Counted positive elements in array
+2021-01-28 23:16:55.077 [main] TRACE log - Counted positive elements in array
+2021-01-28 23:22:47.486 [main] TRACE log - Found average element in array
+2021-01-28 23:22:47.502 [main] TRACE log - Found max element in array
+2021-01-28 23:22:47.504 [main] TRACE log - Found max element in array
+2021-01-28 23:22:47.505 [main] TRACE log - Found max element in array
+2021-01-28 23:22:47.505 [main] TRACE log - Found max element in array
+2021-01-28 23:22:47.511 [main] TRACE log - Found sum in array
+2021-01-28 23:22:47.539 [main] TRACE log - Found sum in array
+2021-01-28 23:22:47.540 [main] TRACE log - Found sum in array
+2021-01-28 23:22:47.542 [main] TRACE log - Found sum in array
+2021-01-28 23:24:23.581 [main] TRACE log - Found average element in array
+2021-01-28 23:24:23.599 [main] TRACE log - Found max element in array
+2021-01-28 23:24:23.600 [main] TRACE log - Found max element in array
+2021-01-28 23:24:23.601 [main] TRACE log - Found max element in array
+2021-01-28 23:24:23.602 [main] TRACE log - Found max element in array
+2021-01-28 23:24:23.604 [main] TRACE log - Found min element in array
+2021-01-28 23:24:23.605 [main] TRACE log - Found min element in array
+2021-01-28 23:24:23.606 [main] TRACE log - Found min element in array
+2021-01-28 23:24:23.607 [main] TRACE log - Found min element in array
+2021-01-28 23:24:23.609 [main] TRACE log - Found sum in array
+2021-01-28 23:24:23.610 [main] TRACE log - Found sum in array
+2021-01-28 23:24:23.612 [main] TRACE log - Found sum in array
+2021-01-28 23:24:23.613 [main] TRACE log - Found sum in array
+2021-01-28 23:25:54.091 [main] TRACE log - Found average element in array
+2021-01-28 23:25:54.107 [main] TRACE log - Found max element in array
+2021-01-28 23:25:54.109 [main] TRACE log - Found max element in array
+2021-01-28 23:25:54.110 [main] TRACE log - Found max element in array
+2021-01-28 23:25:54.111 [main] TRACE log - Found max element in array
+2021-01-28 23:25:54.113 [main] TRACE log - Found min element in array
+2021-01-28 23:25:54.114 [main] TRACE log - Found min element in array
+2021-01-28 23:25:54.115 [main] TRACE log - Found min element in array
+2021-01-28 23:25:54.117 [main] TRACE log - Found min element in array
+2021-01-28 23:25:54.119 [main] TRACE log - Found sum in array
+2021-01-28 23:25:54.120 [main] TRACE log - Found sum in array
+2021-01-28 23:25:54.123 [main] TRACE log - Found sum in array
+2021-01-28 23:25:54.124 [main] TRACE log - Found sum in array
+2021-01-28 23:26:05.546 [main] TRACE log - Found average element in array
+2021-01-28 23:26:16.024 [main] TRACE log - Found max element in array
+2021-01-28 23:26:16.025 [main] TRACE log - Found max element in array
+2021-01-28 23:26:16.026 [main] TRACE log - Found max element in array
+2021-01-28 23:26:16.027 [main] TRACE log - Found max element in array
+2021-01-28 23:26:16.028 [main] TRACE log - Found min element in array
+2021-01-28 23:26:16.029 [main] TRACE log - Found min element in array
+2021-01-28 23:26:16.029 [main] TRACE log - Found min element in array
+2021-01-28 23:26:16.031 [main] TRACE log - Found min element in array
+2021-01-28 23:26:16.032 [main] TRACE log - Found sum in array
+2021-01-28 23:26:16.033 [main] TRACE log - Found sum in array
+2021-01-28 23:26:16.034 [main] TRACE log - Found sum in array
+2021-01-28 23:26:16.034 [main] TRACE log - Found sum in array
+2021-01-28 23:26:25.171 [main] TRACE log - Found average element in array
+2021-01-28 23:26:43.154 [main] TRACE log - Found max element in array
+2021-01-28 23:26:43.155 [main] TRACE log - Found max element in array
+2021-01-28 23:26:43.156 [main] TRACE log - Found max element in array
+2021-01-28 23:26:43.157 [main] TRACE log - Found max element in array
+2021-01-28 23:26:43.159 [main] TRACE log - Found min element in array
+2021-01-28 23:26:43.160 [main] TRACE log - Found min element in array
+2021-01-28 23:26:43.161 [main] TRACE log - Found min element in array
+2021-01-28 23:26:43.163 [main] TRACE log - Found min element in array
+2021-01-28 23:26:43.165 [main] TRACE log - Found sum in array
+2021-01-28 23:26:43.166 [main] TRACE log - Found sum in array
+2021-01-28 23:26:43.167 [main] TRACE log - Found sum in array
+2021-01-28 23:26:43.168 [main] TRACE log - Found sum in array
+2021-01-28 23:27:10.091 [main] TRACE log - Found max element in array
+2021-01-28 23:27:10.101 [main] TRACE log - Found max element in array
+2021-01-28 23:27:10.102 [main] TRACE log - Found max element in array
+2021-01-28 23:27:10.105 [main] TRACE log - Found max element in array
+2021-01-28 23:27:10.107 [main] TRACE log - Found min element in array
+2021-01-28 23:27:10.109 [main] TRACE log - Found min element in array
+2021-01-28 23:27:10.110 [main] TRACE log - Found min element in array
+2021-01-28 23:27:10.111 [main] TRACE log - Found min element in array
+2021-01-28 23:27:10.113 [main] TRACE log - Found sum in array
+2021-01-28 23:27:10.114 [main] TRACE log - Found sum in array
+2021-01-28 23:27:10.115 [main] TRACE log - Found sum in array
+2021-01-28 23:27:10.117 [main] TRACE log - Found sum in array
+2021-01-28 23:27:27.069 [main] TRACE log - Found max element in array
+2021-01-28 23:27:27.079 [main] TRACE log - Found max element in array
+2021-01-28 23:27:27.081 [main] TRACE log - Found max element in array
+2021-01-28 23:27:27.082 [main] TRACE log - Found max element in array
+2021-01-28 23:27:27.083 [main] TRACE log - Found min element in array
+2021-01-28 23:27:27.084 [main] TRACE log - Found min element in array
+2021-01-28 23:27:27.085 [main] TRACE log - Found min element in array
+2021-01-28 23:27:27.086 [main] TRACE log - Found min element in array
+2021-01-28 23:27:27.088 [main] TRACE log - Found sum in array
+2021-01-28 23:27:27.090 [main] TRACE log - Found sum in array
+2021-01-28 23:27:27.091 [main] TRACE log - Found sum in array
+2021-01-28 23:27:27.092 [main] TRACE log - Found sum in array
+2021-01-28 23:27:35.572 [main] TRACE log - Found max element in array
+2021-01-28 23:27:35.585 [main] TRACE log - Found max element in array
+2021-01-28 23:27:35.587 [main] TRACE log - Found max element in array
+2021-01-28 23:27:35.590 [main] TRACE log - Found max element in array
+2021-01-28 23:27:35.592 [main] TRACE log - Found min element in array
+2021-01-28 23:27:35.594 [main] TRACE log - Found min element in array
+2021-01-28 23:27:35.596 [main] TRACE log - Found min element in array
+2021-01-28 23:27:35.598 [main] TRACE log - Found min element in array
+2021-01-28 23:27:35.600 [main] TRACE log - Found sum in array
+2021-01-28 23:27:35.601 [main] TRACE log - Found sum in array
+2021-01-28 23:27:35.602 [main] TRACE log - Found sum in array
+2021-01-28 23:27:35.604 [main] TRACE log - Found sum in array
+2021-01-28 23:27:49.951 [main] TRACE log - Found average element in array
+2021-01-28 23:27:49.960 [main] TRACE log - Found average element in array
+2021-01-28 23:27:49.968 [main] TRACE log - Found average element in array
+2021-01-28 23:27:49.970 [main] TRACE log - Found average element in array
+2021-01-28 23:27:50.010 [main] TRACE log - Found max element in array
+2021-01-28 23:27:50.012 [main] TRACE log - Found max element in array
+2021-01-28 23:27:50.014 [main] TRACE log - Found max element in array
+2021-01-28 23:27:50.016 [main] TRACE log - Found max element in array
+2021-01-28 23:27:50.019 [main] TRACE log - Found min element in array
+2021-01-28 23:27:50.020 [main] TRACE log - Found min element in array
+2021-01-28 23:27:50.022 [main] TRACE log - Found min element in array
+2021-01-28 23:27:50.023 [main] TRACE log - Found min element in array
+2021-01-28 23:27:50.026 [main] TRACE log - Found sum in array
+2021-01-28 23:27:50.027 [main] TRACE log - Found sum in array
+2021-01-28 23:27:50.029 [main] TRACE log - Found sum in array
+2021-01-28 23:27:50.031 [main] TRACE log - Found sum in array
+2021-01-28 23:28:18.786 [main] TRACE log - Found average element in array
+2021-01-28 23:28:18.795 [main] TRACE log - Found average element in array
+2021-01-28 23:28:18.797 [main] TRACE log - Found average element in array
+2021-01-28 23:28:18.799 [main] TRACE log - Found average element in array
+2021-01-28 23:28:18.803 [main] TRACE log - Found max element in array
+2021-01-28 23:28:18.805 [main] TRACE log - Found max element in array
+2021-01-28 23:28:18.806 [main] TRACE log - Found max element in array
+2021-01-28 23:28:18.808 [main] TRACE log - Found max element in array
+2021-01-28 23:28:18.810 [main] TRACE log - Found min element in array
+2021-01-28 23:28:18.812 [main] TRACE log - Found min element in array
+2021-01-28 23:28:18.813 [main] TRACE log - Found min element in array
+2021-01-28 23:28:18.815 [main] TRACE log - Found min element in array
+2021-01-28 23:28:18.817 [main] TRACE log - Found sum in array
+2021-01-28 23:28:18.819 [main] TRACE log - Found sum in array
+2021-01-28 23:28:18.820 [main] TRACE log - Found sum in array
+2021-01-28 23:28:18.822 [main] TRACE log - Found sum in array

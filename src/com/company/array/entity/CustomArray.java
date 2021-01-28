@@ -1,5 +1,7 @@
 package com.company.array.entity;
 
+import java.util.Arrays;
+
 public class CustomArray {
     private int[] array;
 
@@ -30,4 +32,41 @@ public class CustomArray {
         this.array[index] = value;
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        } else if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
+        CustomArray that = (CustomArray) o;
+        return Arrays.equals(array, that.array);
+    }
+
+    @Override
+    public int hashCode() {
+        if (array == null) {
+            return 0;
+        }
+
+        int prime = 31;
+        int result = 1;
+
+        for (int element : array) {
+            result = prime * result + element;
+        }
+
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        String arrayString = "";
+        for (int elem : array) {
+            arrayString += String.valueOf(elem)+ " ";
+        }
+        return "CustomArray{" +
+                "array=" + arrayString +
+                '}';
+    }
 }
